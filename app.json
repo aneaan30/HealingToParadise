@@ -2,7 +2,7 @@
   "name": "Ann Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/aneaan30/clonegeez",
+  "repository": "https://github.com/aneaan30/HealingToParadise",
   "stack": "container",
   "buildpacks": [
    {
@@ -30,12 +30,12 @@
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "roomsukasuka"
+      "value": "healingsini"
     },
     "UPDATES_CHANNEL": {
       "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "puitiszone"
+      "value": "channelelisa"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
